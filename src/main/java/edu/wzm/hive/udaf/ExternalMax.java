@@ -1,4 +1,4 @@
-package com.didi.bi.feature;
+package edu.wzm.hive.udaf;
 
 import org.apache.hadoop.hive.ql.exec.Description;
 import org.apache.hadoop.hive.ql.exec.UDFArgumentTypeException;
