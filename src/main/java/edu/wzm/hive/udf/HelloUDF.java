@@ -1,4 +1,4 @@
-package edu.wzm.hive;
+package edu.wzm.hive.udf;
 
 import org.apache.hadoop.hive.ql.exec.Description;
 import org.apache.hadoop.hive.ql.exec.UDF;
